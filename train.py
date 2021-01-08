@@ -1,6 +1,6 @@
 #!encoding=utf-8
 
-from LoadAllImage import *
+from LoadAllImage.LoadAllImage import *
 from Model.CustomModels import *
 from keras.callbacks import ModelCheckpoint
 
