@@ -22,4 +22,6 @@ weighted avg       0.96      0.95      0.96       832
 
 **数据地址**：
 
-**模型地址**：
+链接：https://pan.baidu.com/s/1iAt3AAjPG2JzTNFMc7UQaA 
+
+提取码：smy7 
